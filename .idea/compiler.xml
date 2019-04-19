@@ -9,7 +9,6 @@
         <module name="blade-desk-api" />
         <module name="blade-dict-api" />
         <module name="blade-system-api" />
-        <module name="blade-user" />
         <module name="blade-user-api" />
       </profile>
     </annotationProcessing>

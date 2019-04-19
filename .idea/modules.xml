@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/blade-service-api/blade-desk-api/blade-desk-api.iml" filepath="$PROJECT_DIR$/blade-service-api/blade-desk-api/blade-desk-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/blade-service-api/blade-dict-api/blade-dict-api.iml" filepath="$PROJECT_DIR$/blade-service-api/blade-dict-api/blade-dict-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/blade-service-api/blade-system-api/blade-system-api.iml" filepath="$PROJECT_DIR$/blade-service-api/blade-system-api/blade-system-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blade-service/blade-user/blade-user.iml" filepath="$PROJECT_DIR$/blade-service/blade-user/blade-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/blade-service-api/blade-user-api/blade-user-api.iml" filepath="$PROJECT_DIR$/blade-service-api/blade-user-api/blade-user-api.iml" />
     </modules>
   </component>
